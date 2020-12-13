@@ -1,0 +1,107 @@
+div.content-container {
+    margin: 6%;
+}
+
+.content-container {
+    background-color: white;
+    border-radius: 50px;
+}
+
+body {
+    background-color: #195AB5;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Antic Slab', serif;
+    text-align: center;
+    padding: 75px;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Antic Slab', serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Antic Slab', serif;
+    font-size: 20px;
+}
+
+.paragraph {
+    background-color: white;
+    width: 1050px;
+    height: auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.parent {
+    width: 1050px;
+    padding: 0px;
+}
+
+.image-child {
+    flex-basis: 50%;
+    border-radius: 25px;
+}
+
+.image-head {
+    flex-basis: 50%;
+    border-radius: 25px;
+}
+
+.text-child {
+    flex-basis: 300%
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.parent img {
+    max-width: 800px;
+}
+
+.image-head img {
+    width: 1660px;
+    height: 750px;
+    padding: 0px;
+}
+
+.middle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+figure {
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    text-indent: 0;
+    margin: 0.5em;
+    color: white;
+    padding: 0px;
+}
+
+iframe {
+    height: 800px;
+    width: 1000px;
+    padding: 10px;
+}
+
+.container {
+    margin: auto;
+    width: 100%;
+    max-width: 800px;
+}
+
+.container-Map {
+    margin: auto;
+    width: 100%;
+    max-width: 800px;
+    display: flex;
+}
